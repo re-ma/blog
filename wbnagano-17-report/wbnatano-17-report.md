@@ -53,7 +53,7 @@ LT枠ってそういえばあるじゃんとふと思って、当日飛び入り
 [2/3の Special](https://wbnagano.connpass.com/event/73030/) で  @motchi0214 さんがStaging環境を用意しましょうと話していたので、  
 インフラ屋さんから見たStagingの話を  
 
-(スライドは以下に置いています
+(スライドは以下に置いています  
 https://speakerdeck.com/re__ma/staginghuan-jing-wokao-eyou-inhuramu-xian-kara
 
 ## 懇親会
